@@ -1,0 +1,8 @@
+# Ignore environmet
+venv/
+.venv/
+env/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
